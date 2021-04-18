@@ -2864,8 +2864,8 @@
 		<SoundDataNode name="bullethitstone"> <AudioSource name="Sounds/AudioSource_WeaponFire"/> <NetworkAudioSource name="Sounds/AudioSource_WeaponFire_Network"/>
 			<Noise ID="2" noise="11" time="3" muffled_when_crouched="0.5"/>
 			<AudioClip ClipName="Sounds/Weapons/Ranged/Pistol/pistol_s_fire1"/>
-			<AudioClip ClipName="Sounds/Weapons/Ranged/Pistol/pistol_s_fire1"/>
-			<AudioClip ClipName="Sounds/Weapons/Ranged/Pistol/pistol_s_fire1"/>
+			<AudioClip ClipName="Sounds/Weapons/Ranged/Pistol/pistol_s_fire2"/>
+			<AudioClip ClipName="Sounds/Weapons/Ranged/Pistol/pistol_s_fire3"/>
 		  <LowestPitch name="0.9"/>
 		  <HighestPitch name="1.0"/>
 			<LocalCrouchVolumeScale value="1.0"/> <CrouchNoiseScale value="0.5"/> <NoiseScale value="1"/> <MaxVoices value="3"/> <MaxRepeatRate value="0.01"/> </SoundDataNode>
